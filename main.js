@@ -5,6 +5,7 @@ var runs;
 const inputs = {
   "sort-by": document.querySelector("#sort-by"),
   "f-level": document.querySelector("#f-level"),
+  "f-difficulty": document.querySelector("#f-difficulty"),
   "f-time-from": document.querySelector("#f-time-from"),
   "f-time-to": document.querySelector("#f-time-to"),
   "f-tps-from": document.querySelector("#f-tps-from"),
@@ -98,6 +99,11 @@ function filterRuns () {
   const fLevel = inputs["f-level"].value.toString().trim().toLowerCase();
   filteredRuns = filteredRuns.filter(r =>
     r.level_name.toString().toLowerCase().includes(fLevel) || r.level_id.toString().includes(fLevel)
+  );
+
+  const fDifficulty = inputs["f-difficulty"].value.toString().trim().toLowerCase();
+  filteredRuns = filteredRuns.filter(r =>
+    r.difficulty.toString().toLowerCase().includes(fDifficulty)
   );
 
   const fTimeFrom = Number(inputs["f-time-from"].value.toString().trim());
