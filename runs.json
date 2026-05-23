@@ -1,0 +1,22 @@
+[
+  {
+    "level_name": "Example Level",
+    "level_id": 123456789,
+    "difficulty": "Easy",
+    "ticks": 21600,
+    "tps": 240,
+    "authors": ["Me", "You"],
+    "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "download": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "format": "XYZ",
+    "date": "05/23/2026"
+  },
+  {
+    "level_name": "Another Example",
+    "level_id": 85109832782,
+    "difficulty": "Hard",
+    "ticks": 43202,
+    "authors": ["Just me"],
+    "date": "Jan 2 2025"
+  }
+]

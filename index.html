@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Geometry Dash TAS Sheet</title>
+  <style>
+    body {
+      background-color: #242432;
+      color: rgb(220, 220, 220);
+      font-family: sans-serif;
+      margin: 20px;
+    }
+    sub {
+      color: rgb(169, 169, 169);
+    }
+    a {
+      text-decoration: none;
+      color: rgb(117, 227, 100);
+      font-weight: bold;
+    }
+    .icon-green {
+      fill: rgb(117, 227, 100);
+      width: 32px;
+    }
+    .icon-red {
+      fill: rgb(223, 70, 70);
+      width: 32px;
+    }
+    #table-container {
+      width: 70vw;
+      padding-bottom: 10px;
+      overflow: scroll;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      background-color: rgba(0, 0, 0, 0.2);
+    }
+    th, td {
+      border: 1px solid white;
+      padding: 10px 4px;
+      text-align: center;
+    }
+    .mono {
+      font-family: monospace;
+      font-size: 120%;
+    }
+    #filters {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      border: 1px solid white;
+      padding: 0 15px;
+      box-sizing: border-box;
+      width: calc(30vw - 60px);
+      background-color: rgba(0, 0, 0, 0.2);
+    }
+    #filters h3 {
+      text-align: center;
+    }
+    input, select {
+      background-color: rgba(0, 0, 0, 0);
+      color: white;
+      border: 1px solid white;
+      margin: 0 5px;
+      padding: 5px;
+      border-radius: 5px;
+    }
+    input[type="number"] {
+      width: 4rem;
+      text-align: center;
+      -moz-appearance: textfield;
+      appearance: textfield;
+    }
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="table-container">
+    <table id="main-table">
+      <tr id="table-header">
+        <th>Level</th>
+        <th>Difficulty</th>
+        <th>Time</th>
+        <th>TPS</th>
+        <th>Author(s)</th>
+        <th>Video</th>
+        <th>Download</th>
+        <th>Date</th>
+      </tr>
+    </table>
+  </div>
+
+  <div id="filters">
+    <h3>Sort order</h3>
+    <p>Sort by:
+      <select name="sort-by" id="sort-by">
+        <option value="time-asc">Time (fastest first)</option>
+        <option value="time-desc">Time (slowest first)</option>
+        <option value="tps-asc">TPS (ascending)</option>
+        <option value="tps-desc">TPS (descending)</option>
+        <option value="authors-asc">Author count (ascending)</option>
+        <option value="authors-desc">Author count (descending)</option>
+        <option value="date-desc" selected>Date (newest first)</option>
+        <option value="date-asc">Date (oldest first)</option>
+      </select>
+    </p>
+    <h3>Filters</h3>
+    <p>Level:
+      <input type="text" id="f-level" placeholder="Level name or ID">
+    </p>
+    <p>Time in seconds:
+      <input type="number" id="f-time-from" placeholder="from"> – <input type="number" id="f-time-to" placeholder="to">
+    </p>
+    <p>TPS:
+      <input type="number" id="f-tps-from" placeholder="from"> – <input id="f-tps-to" type="number" placeholder="to">
+    </p>
+    <p>Author count:
+      <input type="number" id="f-authors-from" placeholder="from"> – <input id="f-authors-to" type="number" placeholder="to">
+    </p>
+    <p>Has video:
+      <select name="f-has-video" id="f-has-video">
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+        <option value="either" selected>Doesn't matter</option>
+      </select>
+    </p>
+    <p>Bot format:
+      <select name="f-has-download" id="f-has-download">
+        <option value="either" selected>Doesn't matter</option>
+        <option value="any-download">Any format</option>
+        <option value="no-download">None</option>
+      </select>
+    </p>
+    <p>Date:
+      <input id="f-date-from" type="date"> – <input id="f-date-to" type="date">
+    </p>
+  </div>
+
+  <script src="main.js"></script>
+
+</body>
+</html>
