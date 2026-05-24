@@ -55,13 +55,13 @@
     "date": "01/01/2026"
   },
   {
-    "level_name": "ROBOT STOP",
-    "id": "122689486",
+    "level_name": "Aerios",
+    "id": "111048577",
     "difficulty": "Extreme Demon",
-    "ticks": 3063,
+    "ticks": 10597,
     "tps": 240,
     "authors": ["Fuyu"],
-    "download": "https://drive.google.com/file/d/1BjfgSggbSBGrAJmNcqdbDiVZGucnQo3W/view",
+    "download": "https://drive.google.com/file/d/1OY_yZBa1quE2MMt6zGgDojqhu1uzzag8/view?usp=drive_link",
     "format": "tcm",
     "date": "01/01/2026"
   },
@@ -85,17 +85,6 @@
     "authors": ["Fuyu"],
     "video": "https://www.youtube.com/watch?v=a8MYj0FFero",
     "download": "https://drive.google.com/file/d/1G6dKngb9Oi3q5J-UCZc7P_6yZEtRNQ80/view?usp=sharing",
-    "format": "tcm",
-    "date": "01/01/2026"
-  },
-  {
-    "level_name": "Uhm Huh",
-    "id": "112426437",
-    "difficulty": "Extreme Demon",
-    "ticks": 9434,
-    "tps": 240,
-    "authors": ["Fuyu"],
-    "download": "https://drive.google.com/file/d/1DArSi0j0Ln7-xkxaTSv7Q6nwaZ5Kzw0Z/view?usp=drive_link",
     "format": "tcm",
     "date": "01/01/2026"
   },
@@ -158,7 +147,7 @@
     "date": "01/01/2026"
   },
   {
-    "level_name": "CaveOfTheScarletSky",
+    "level_name": "Pandora",
     "id": "115809824",
     "difficulty": "Extreme Demon",
     "ticks": 8406,
