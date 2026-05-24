@@ -97,8 +97,9 @@ function filterRuns () {
   }
 
   const fLevel = inputs["f-level"].value.toString().trim().toLowerCase();
-  filteredRuns = filteredRuns.filter(r =>
-    r.level_name.toString().toLowerCase().includes(fLevel) || r.level_id.toString().includes(fLevel)
+  filteredRuns = filteredRuns.filter(r => 
+    r?.level_name?.toString().toLowerCase().includes(fLevel?.toLowerCase()) || 
+    r?.level_id?.toString().includes(fLevel)
   );
 
   const fDifficulty = inputs["f-difficulty"].value.toString().trim().toLowerCase();
