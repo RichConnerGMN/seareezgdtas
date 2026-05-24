@@ -1,6 +1,7 @@
 [
   {
     "level_name": "The Tower",
+    "id": 23,
     "difficulty": "Normal",
     "ticks": 15567,
     "tps": 240,
@@ -12,6 +13,7 @@
   },
   {
     "level_name": "The Sewers",
+    "id": 24,
     "difficulty": "Hard",
     "ticks": 17347,
     "tps": 240,
@@ -23,6 +25,7 @@
   },
   {
     "level_name": "The Cellar",
+    "id": 25,
     "difficulty": "Harder",
     "ticks": 18317,
     "tps": 240,
@@ -34,6 +37,7 @@
   },
   {
     "level_name": "The Secret Hollow",
+    "id": 26,
     "difficulty": "Insane",
     "ticks": 39293,
     "tps": 240,
