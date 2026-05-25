@@ -202,7 +202,7 @@
     "date": "01/01/2026"
   },
   {
-    "level_name": "Ruined",
+    "level_name": " Ruined",
     "level_id": 99303885,
     "difficulty": "Extreme Demon",
     "ticks": 3333,
@@ -372,14 +372,14 @@
     "difficulty": "Extreme Demon",
     "ticks": 3358,
     "tps": 240,
-    "authors": ["LucaGEMD"],
+    "authors": ["LucaGMD"],
     "video": "https://www.youtube.com/embed/8aXFjfbfHkU",
-    "download": "",
-    "format": "",
-    "date": "01/01/2025"
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1223038453256687698/Black_Lotus.gdr?ex=6a14cf52&is=6a137dd2&hm=dcfd645c8566b5a9ed689c7f5967d0340128c102f6213d930c59914a49bc1f7a&",
+    "format": "gdr",
+    "date": "03/28/2024"
   },
   {
-    "level_name": " Ruined",
+    "level_name": "Ruined",
     "level_id": "97818318",
     "difficulty": "Impossible",
     "ticks": 3333,
@@ -524,15 +524,15 @@
   },
   {
     "level_name": "Boring Tower",
-    "level_id": "101624652",
-    "difficulty": "Harder",
-    "ticks": 4404,
+    "level_id": "97579586",
+    "difficulty": "Insane",
+    "ticks": 4405,
     "tps": 240,
-    "authors": ["LucaGEMD"],
+    "authors": ["LucaGMD"],
     "video": "https://www.youtube.com/embed/FPBgIDAe644",
-    "download": "",
-    "format": "",
-    "date": "01/01/2025"
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1223040852973191299/Boring_Tower.gdr?ex=6a14d18e&is=6a13800e&hm=5ed147841ddd113183b835b85b76b72c5110969658474575fbd6b188ecd85c21&",
+    "format": "gdr",
+    "date": "03/28/2024"
   },
   {
     "level_name": "I WANNA BE THE CRY",
@@ -749,5 +749,102 @@
     "download": "",
     "format": "",
     "date": "01/01/2025"
+  },
+  {
+    "level_name": "Patio Light",
+    "level_id": "99701334",
+    "difficulty": "Insane",
+    "ticks": 28483,
+    "tps": 240,
+    "authors": ["LucaGMD"],
+    "video": "https://www.youtube.com/watch?v=Vz4wgBbApik&t",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1222743533513867285/patio_light.gdr?ex=6a146567&is=6a1313e7&hm=c293443f14c792598800be8a97cabcd32e15dfc5929cf3bcd41a49d37a7810f8&",
+    "format": "gdr",
+    "date": "01/01/2025"
+  },
+  {
+    "level_name": "Silent Hills",
+    "level_id": 11683795,
+    "difficulty": "Extreme Demon",
+    "ticks": 14992,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/Ng62-N0wWz8",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1222775891151683676/Silent_Hills.ybot?ex=6a14838a&is=6a13320a&hm=81c074cffae763fada0c6c84135bbe01360950630f8b9e7a50ab2c59464c25bd&",
+    "format": "ybot",
+    "date": "03/28/2024"
+  },
+  {
+    "level_name": "The Pit",
+    "level_id": 99066482,
+    "difficulty": "Insane",
+    "ticks": 4055,
+    "tps": 240,
+    "authors": ["LucaGMD"],
+    "video": "https://www.youtube.com/watch?v=jUutfspScTw",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1223039059484610671/The_Pit.gdr?ex=6a14cfe2&is=6a137e62&hm=b7ddd45e6793b1690a917c57a883df92db105ac346e4afd21078cf4e81d0e411&",
+    "format": "gdr",
+    "date": "03/28/2024"
+  },
+  {
+    "level_name": "Tower of Bread 12",
+    "level_id": 99999759,
+    "difficulty": "Insane",
+    "ticks": 6514,
+    "tps": 240,
+    "authors": ["LucaGMD"],
+    "video": "https://www.youtube.com/watch?v=VubH49c6quc",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1223039697102835813/Tower_of_Bread_12.gdr?ex=6a14d07a&is=6a137efa&hm=5f248ff4d03e31d08a16d24890bbe0c37be9541d6c159ba52b8c2b02bd1dc7c9&",
+    "format": "gdr",
+    "date": "03/28/2024"
+  },
+  {
+    "level_name": "Cl5u37r0ph0b1a",
+    "level_id": 102389658,
+    "difficulty": "Extreme Demon",
+    "ticks": 5736,
+    "tps": 240,
+    "authors": ["LucaGMD"],
+    "video": "https://www.youtube.com/watch?v=N236YMcrfPM",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1223040393793245184/Cl5u37r0ph0b1a.gdr?ex=6a14d120&is=6a137fa0&hm=f30246e62de33859f35c4095abe4c1ed6ad7d160875153f85a15bfa91c1e119b&",
+    "format": "gdr",
+    "date": "03/28/2024"
+  },
+  {
+    "level_name": "Retray Platformer",
+    "level_id": 98145818,
+    "difficulty": "Impossible",
+    "ticks": 9073,
+    "tps": 240,
+    "authors": ["LucaGMD"],
+    "video": "https://youtu.be/xEn0pE0gurw",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1223385343110152202/Retray_Platformer.gdr?ex=6a14c0e3&is=6a136f63&hm=77686226ae7343cade305e40841382be01bd34bb4c532d692427fae2649be188&",
+    "format": "gdr",
+    "date": "03/29/2024"
+  },
+  {
+    "level_name": "A True City",
+    "level_id": 97589231,
+    "difficulty": "Harder",
+    "ticks": 7158,
+    "tps": 240,
+    "authors": ["Fuyu"],
+    "video": "https://youtu.be/t_N181fMcn8?si=MIjLI0z5y1UEk7rb",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1223713843730186310/A_True_City.gdr?ex=6a14a153&is=6a134fd3&hm=03abb49c5b398eb0a9766628cdf430b6d46d6fd0b5ba05aa5ef83d62b1582829&",
+    "format": "gdr",
+    "date": "03/30/2024"
+  },
+{
+    "level_name": "Tower of Bread 12",
+    "level_id": 99999759,
+    "difficulty": "Insane",
+    "ticks": 4349,
+    "tps": 240,
+    "authors": ["Fuyu"],
+    "video": "https://youtu.be/Tyu9fWl8YcI?si=LD1VSpzC2T_F1Bxo",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1224351108294512763/Tower_of_Bread_12.gdr?ex=6a144fd3&is=6a12fe53&hm=4e79b6e52d4bca6d4fb1b1894ff8deffa40833dc1162244efc2f4c893f7c4aef&",
+    "format": "gdr",
+    "date": "04/01/2024"
   }
+
 ]
