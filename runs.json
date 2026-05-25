@@ -845,6 +845,78 @@
     "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1224351108294512763/Tower_of_Bread_12.gdr?ex=6a144fd3&is=6a12fe53&hm=4e79b6e52d4bca6d4fb1b1894ff8deffa40833dc1162244efc2f4c893f7c4aef&",
     "format": "gdr",
     "date": "04/01/2024"
+  },
+  {
+    "level_name": "I wanna be the guy",
+    "level_id": 97543536,
+    "difficulty": "Insane Demon",
+    "ticks": 14303,
+    "tps": 240,
+    "authors": ["furrv"],
+    "video": "https://www.youtube.com/watch?v=W4cGLJ3fcd0",
+    "download": "",
+    "format": "",
+    "date": "03/09/2024"
+  },
+  {
+    "level_name": "I wanna be the guy",
+    "level_id": 97543536,
+    "difficulty": "Insane Demon",
+    "ticks": 10384,
+    "tps": 240,
+    "authors": ["alex"],
+    "video": "https://www.youtube.com/watch?v=4jRe1v94vDY",
+    "download": "",
+    "format": "ybot",
+    "date": "12/23/2023"
+  },
+  {
+    "level_name": "I wanna be the guy",
+    "level_id": 97543536,
+    "difficulty": "Insane Demon",
+    "ticks": 9419,
+    "tps": 240,
+    "authors": ["alex"],
+    "video": "https://www.youtube.com/watch?v=GaUqU4Vf8Fg",
+    "download": "",
+    "format": "ybot",
+    "date": "12/25/2023"
+  },
+  {
+    "level_name": "I wanna be the guy",
+    "level_id": 97543536,
+    "difficulty": "Insane Demon",
+    "ticks": 9353,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://www.youtube.com/watch?v=WSo7Jqe3uQQ",
+    "download": "",
+    "format": "ybot",
+    "date": "01/14/2024"
+  },
+  {
+    "level_name": "I wanna be the guy",
+    "level_id": 97543536,
+    "difficulty": "Insane Demon",
+    "ticks": 9270,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://www.youtube.com/watch?v=KbG2zHc2P30",
+    "download": "",
+    "format": "ybot",
+    "date": "03/09/2024"
+  },
+  {
+    "level_name": "I wanna be the guy",
+    "level_id": 97543536,
+    "difficulty": "Insane Demon",
+    "ticks": 9143,
+    "tps": 240,
+    "authors": ["Fuyu"],
+    "video": "https://www.youtube.com/watch?v=g4y8S_FbuaU",
+    "download": "https://drive.google.com/file/d/1KEiO6-oDUKwog8ZHygSTqKNyD0660cCc/view?usp=drive_link",
+    "format": "ybot",
+    "date": "04/18/2024"
   }
 
 ]
