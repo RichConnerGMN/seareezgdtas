@@ -1974,6 +1974,90 @@
     "download": "",
     "format": "",
     "date": "03/25/2025"
+  },
+  {
+    "level_name": "Working Together",
+    "level_id": 108835735,
+    "difficulty": "Insane",
+    "ticks": 21647,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://www.youtube.com/watch?v=IQsGXzlTyas",
+    "download": "",
+    "format": "",
+    "date": "08/20/2024"
+  },
+  {
+    "level_name": "10 Rooms For Fun",
+    "level_id": 106767751,
+    "difficulty": "Easy Demon",
+    "ticks": 9384,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://www.youtube.com/watch?v=cWsdHsEUfiw",
+    "download": "",
+    "format": "",
+    "date": "08/24/2024"
+  },
+  {
+    "level_name": "Speeeeeeed",
+    "level_id": 110172318,
+    "difficulty": "Hard Demon",
+    "ticks": 7273,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://www.youtube.com/watch?v=E8cqnT2EtXI",
+    "download": "",
+    "format": "",
+    "date": "09/21/2024"
+  },
+  {
+    "level_name": "Lostless",
+    "level_id": 108701729,
+    "difficulty": "Insane",
+    "ticks": 25729,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://www.youtube.com/watch?v=twjhREyykDk",
+    "download": "",
+    "format": "",
+    "date": "03/17/2025"
+  },
+  {
+    "level_name": "Getting Over It",
+    "level_id": 97480163,
+    "difficulty": "Insane",
+    "ticks": 4080,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://www.youtube.com/watch?v=4_tQIS3MM14",
+    "download": "",
+    "format": "",
+    "date": "03/09/2024"
+  },
+  {
+    "level_name": "Heart Cancer",
+    "level_id": 127473144,
+    "difficulty": "Insane",
+    "ticks": 5696,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://www.youtube.com/watch?v=6Zjx4vWGqyA",
+    "download": "",
+    "format": "",
+    "date": "10/26/2025"
+  },
+  {
+    "level_name": "Throat of the World",
+    "level_id": 109365157,
+    "difficulty": "Insane Demon",
+    "ticks": 250750,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://youtu.be/b5hjwU5L41w",
+    "download": "",
+    "format": "",
+    "date": "02/08/2025"
   }
 
 
