@@ -2395,6 +2395,18 @@
     "download": "",
     "format": "",
     "date": "05/12/2026"
+  },
+  {
+    "level_name": "The Cellar",
+    "level_id": 5003,
+    "difficulty": "Harder",
+    "ticks": 18317,
+    "tps": 240,
+    "authors": ["Fuyu"],
+    "video": "https://youtu.be/i_ggENeMlus?si=wnKoVK_TQDELzB9P",
+    "download": "https://drive.google.com/file/d/1OwQaCah19H-kta0-3filYXraOSVrSIsO/view?usp=drive_link",
+    "format": "tcm",
+    "date": "05/29/2026"
   }
 
 
