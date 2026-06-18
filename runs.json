@@ -2407,7 +2407,19 @@
     "download": "https://drive.google.com/file/d/1OwQaCah19H-kta0-3filYXraOSVrSIsO/view?usp=drive_link",
     "format": "tcm",
     "date": "05/29/2026"
+  },
+  {
+    "level_name": "Maethrillian",
+    "level_id": "98222333",
+    "difficulty": "Easy Demon",
+    "ticks": 2695,
+    "tps": 240,
+    "authors": ["The Cube Guy"],
+    "video": "",
+    "format": "",
+    "date": "05/29/2026"
   }
+
 
 
 ]
